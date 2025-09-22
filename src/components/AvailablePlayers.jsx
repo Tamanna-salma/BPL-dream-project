@@ -40,10 +40,7 @@ const AvailablePlayers = ({ PlayersPromise }) => {
                         <span className="text-gray-500">Left-Hand-Bat</span>
                     </div>
 
-                    <div className="flex justify-between items-center mt-2">
-                        <p className="mt-1 font-bold">Price: $1500000</p>
-                        <button className="btn mt-3 p-2">chose Player</button>
-                    </div>
+                    
                 </div>
             </div>)
             }
